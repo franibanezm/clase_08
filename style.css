@@ -4,8 +4,8 @@
 @import url('https://fonts.googleapis.com/css2?family=Mouse+Memoirs&family=New+Rocker&family=Open+Sans&family=Sacramento&display=swap');
 
 :root{
-    --fondo: #000;
-    --figura: #ddd;
+    --fondo: #010101;
+    --figura: #232;
 }
 
 * {
